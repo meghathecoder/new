@@ -1,0 +1,15 @@
+site_name: "devx-TECH-docs"
+site_description: "Main documentation for component-sample features and platform APIs"
+
+
+
+plugins:
+- techdocs-core
+
+
+
+nav:
+- Home: index.md
+- Sample: sample.md
+- Content: content.md
+- Conclusion: conclusion.md
